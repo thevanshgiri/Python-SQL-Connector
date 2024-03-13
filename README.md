@@ -1,3 +1,4 @@
+[![Python package](https://github.com/IMV-IN/Python-SQL-Connector/actions/workflows/python-package.yml/badge.svg)](https://github.com/IMV-IN/Python-SQL-Connector/actions/workflows/python-package.yml)
 # Python-SQL-Connector
 ![Python-SQL-Connector](https://user-images.githubusercontent.com/98384947/235427355-dd859cfa-9540-4134-847c-893aa0fdc59d.png)
 
