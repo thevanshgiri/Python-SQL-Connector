@@ -2,11 +2,12 @@ import sql
 import tkinter as tk 
 from tkinter import ttk
 import time
+### Window Config ###
 root = tk.Tk()
 root.title("Database")
 root.geometry("400x600")
 root.resizable(True, True)
-
+#####################
 def destroy():
     for child in root.winfo_children():
         child.destroy()
