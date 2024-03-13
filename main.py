@@ -7,7 +7,8 @@ root = tk.Tk()
 root.title("Database")
 root.geometry("400x600")
 root.resizable(True, True)
-#####################
+
+### Functions ###
 def destroy():
     for child in root.winfo_children():
         child.destroy()
@@ -506,6 +507,7 @@ def truncate_table():
     
     menu()
 
+### Creating GUI ###
 def menu():
 
     menu = tk.Menu(root)
